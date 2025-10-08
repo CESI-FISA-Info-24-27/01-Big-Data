@@ -1,0 +1,6 @@
+CustomerKey,FirstName,LastName,Email,Gender,Age,MembershipLevel,RegistrationDate
+501,John,Doe,john.doe@example.com,M,30,Gold,20190105
+502,Jane,Smith,jane.smith@example.com,F,25,Silver,20200501
+503,Bob,Johnson,bob.johnson@example.com,M,40,Platinum,20181015
+504,Alice,Wilson,alice.wilson@example.com,F,,Gold,20170220
+505,Chris,,chris.@example.com,M,28,Silver,20190812

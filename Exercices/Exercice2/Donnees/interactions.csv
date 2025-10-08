@@ -1,0 +1,7 @@
+InteractionID,DateKey,CustomerKey,SentimentKey,Text
+20001,2023/01/01,501,401,"Loved the product, great quality!"
+20002,01-02-2023,502,402,"Not what I expected, poor service."
+20003,2023-03-02,503,403,"Amazing deals, will buy again!"
+20004,2023/04/01,504,404,"Terrible experience, never again!!!"
+20005,2023-05-01,505,405,"So happy with the purchase :)"
+20006,2023-06-01,506,406,""

@@ -1,0 +1,7 @@
+ProductKey,ProductName,Brand,Category,Price,Supplier
+3001,Laptop Pro 15,TechnoMax,Electronics,110.00,SupplierX
+3002,Smartphone X,GigaTech,Electronics,899.99,SupplierY
+3003,Bluetooth Headphones,SoundGood,Electronics,59.99,SupplierZ
+3004,Winter Jacket,NorthExplore,Apparel,170.00,SupplierW
+3005,Running Shoes,FastTrack,Sports,,SupplierV
+3006,Soccer Ball,,Sports,25.00,SupplierV
