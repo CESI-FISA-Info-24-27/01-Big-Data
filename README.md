@@ -5,9 +5,9 @@ Il couvre les notions d’architecture Big Data, modélisation, NoSQL, OLAP et d
 
 ## Organisation du dépôt
 
-* [`Exercices/`](./Exercices) — Travaux dirigés et exercices pratiques
-* [`Prosits/`](./Prosits) — Activités PROSIT et documents associés
-* [`Storytelling/`](./Storytelling) — Études de cas et fils conducteurs
-* [`Workshops/`](./Workshops) — Ateliers pratiques et évaluations
+* [`Exercices/`](./Exercices) — Quelques exercices
+* [`Prosits/`](./Prosits) — Prosit aller et retour avec contexte
+* [`Storytelling/`](./Storytelling) — Explication rapide et exemple d'un storytelling
+* [`Workshops/`](./Workshops) — Sujet et Corrigé des Workshops du projet
 * [`Definitions.md`](./Definitions.md) — Définitions et notions clés
 * [`README.md`](./README.md) — Présentation générale
